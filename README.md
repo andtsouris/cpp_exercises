@@ -1,3 +1,3 @@
-# C++ exercises
+# C++ exercises - HackerRank
 
-A series of exercises solutions of exercises in C++.
+My solutions to a series of hackerrank C++ preparation exercises.
